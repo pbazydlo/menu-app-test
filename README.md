@@ -50,6 +50,6 @@ This restaurant unfortunately has a number of rules about the meals that can be 
  
 ## Submission
  
-Please submit your program by sending a zip file to your point of contact @ OpenTable.
+Please submit your program either by sending a zip file or by providing a link to a repository, dropbox, etc.. to your point of contact @ OpenTable
 
  

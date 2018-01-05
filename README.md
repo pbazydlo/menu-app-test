@@ -52,6 +52,4 @@ This restaurant unfortunately has a number of rules about the meals that can be 
  
 Please submit your program by sending a zip file to your point of contact @ OpenTable.
 
-The zip file should not include the node_modules folder.
-
  

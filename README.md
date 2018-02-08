@@ -5,7 +5,7 @@ Thanks for taking the time to complete our front-end test.  Please aim to spend 
  
 ## The task
  
-Build a basic application from which two users can select their dishes from a supplied dinner menu, and are shown the total cost.
+Build a basic application which allows selecting dishes for two diners from a supplied dinner menu. Application should display the total cost of selected dishes.
  
 The application must use only HTML, CSS and JavaScript (frameworks are allowed) and be built with high quality, maintainable code that is covered by test cases.
  
